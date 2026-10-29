@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:06121f,35:0d3b66,70:1f6feb,100:7cc7ff&text=Pedro%20Max&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Technology%20%7C%20Design%20%7C%20Electronics&descAlignY=58&descAlign=50" alt="Pedro Max" />
+<img width="100%" src="./assets/pedro-tech.gif" alt="Banner animado com circuitos azuis e o nome Pedro Max" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=66B3FF&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+perfil!;Transformando+ideias+em+solu%C3%A7%C3%B5es;Tecnologia%2C+design+e+eletr%C3%B4nica;Sempre+aprendendo+e+evoluindo)](https://git.io/typing-svg)
 
